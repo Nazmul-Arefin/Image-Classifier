@@ -24,7 +24,7 @@ A Streamlit-powered web application that classifies images using TensorFlow's Mo
 ### Installation
 ```bash
 # Clone this repository
-git clone https://github.com/your-username/image-classifier.git
+git clone https://github.com/Nazmul-Arefin/Image-Classifier
 cd image-classifier
 
 # Create virtual environment (recommended)
