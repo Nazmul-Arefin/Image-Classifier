@@ -10,6 +10,12 @@ A Streamlit-powered web application that classifies images using TensorFlow's Mo
 - Python 3.8-3.10
 - pip or conda
 
+## 📸 Example Classifications
+
+| Input Image | Model Predictions |
+|-------------|-------------------|
+| ![Tiger](Image Classifier\assets\interface.png) | ![Tiger Result](Image Classifier\assets\result.png) |
+
 ### Installation
 ```bash
 # Clone this repository
@@ -24,8 +30,5 @@ source venv/bin/activate  # Linux/Mac
 # Install dependencies
 pip install -r requirements.txt
 
-## 📸 Example Classifications
 
-| Input Image | Model Predictions |
-|-------------|-------------------|
-| ![Tiger](D:/Personal Projects/Image Classifier/assets/interface.png) | ![Tiger Result](D:/Personal Projects/Image Classifier/assets/result.png) |
+
