@@ -12,9 +12,14 @@ A Streamlit-powered web application that classifies images using TensorFlow's Mo
 
 ## 📸 Example Classifications
 
-| Input Image | Model Predictions |
-|-------------|-------------------|
-| ![Tiger](assets\interface.png) | ![Tiger Result](assets\result.png) |
+<div align="center">
+  <!-- Replace with your demo GIF -->
+  <img src="assets/interface.png" alt="Resume Critiquer Demo" width="800">
+</div>
+<div align="center">
+  <!-- Replace with your demo GIF -->
+  <img src="assets/result.png" alt="Resume Critiquer Demo" width="800">
+</div>
 
 ### Installation
 ```bash
