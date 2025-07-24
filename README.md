@@ -14,7 +14,7 @@ A Streamlit-powered web application that classifies images using TensorFlow's Mo
 
 | Input Image | Model Predictions |
 |-------------|-------------------|
-| ![Tiger](Image Classifier\assets\interface.png) | ![Tiger Result](Image Classifier\assets\result.png) |
+| ![Tiger](assets\interface.png) | ![Tiger Result](assets\result.png) |
 
 ### Installation
 ```bash
