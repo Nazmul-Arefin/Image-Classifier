@@ -2,7 +2,7 @@
 
 A Streamlit-powered web application that classifies images using TensorFlow's MobileNetV2 model. Perfect for quick prototyping and educational purposes!
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-url.streamlit.app)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://image-classify.streamlit.app/)
 
 ## 🚀 Quick Start
 
